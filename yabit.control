@@ -1,0 +1,5 @@
+# yabit extension
+comment = 'YABIT extension for PostgreSQL'
+default_version = '0.1'
+module_pathname = '$libdir/yabit'
+relocatable = false
